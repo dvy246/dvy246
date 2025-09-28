@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I’m Divy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**dvy246/dvy246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCom (Hons)** | 🚀 Transitioning into **Data Science & AI**  
+💡 I combine **business acumen** with **machine learning & advanced analytics** to build real-world solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me  
+- 🏗️ Currently building:  
+  - 📊 A **Data Warehouse** project with advanced analytics  
+  - 🤖 **End-to-End Machine Learning projects** (regression, classification, clustering, boosting)  
+  - ⚙️ **LangGraph-based AI Systems** exploring multi-agent workflows  
+- 🎯 Goal: Become a **Data Scientist** and grow into the **top 10% AI professionals globally**  
+- ⚡ Fun fact: I started with business studies, but my curiosity for **data-driven decision-making** pulled me into AI.  
+
+---
+
+## 🔹 Skills & Tools  
+- **Programming & Data:** Python, SQL, Pandas, NumPy  
+- **Visualization:** Tableau, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Ensemble Models  
+- **Databases:** SQL Server, MySQL, SQLite  
+- **Other:** Git, LangGraph, Agentic AI basics  
+
+---
+
+## 🔹 Current Projects  
+📌 **Data Warehouse + Advanced Analytics** – designing schemas, pipelines, and dashboards  
+📌 **End-to-End ML Projects** – preprocessing → training → evaluation → deployment basics  
+📌 **LangGraph Agentic Systems** – building multi-agent workflows  
+
+---
+
+## 🔹 Let’s Connect  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 divy@example.com  
+
+---
+
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
