@@ -6,10 +6,9 @@
 </p>
 
 <h1 align="center">Hi, I'm Divy 👋</h1>
-<h3 align="center">Data Science & AI Enthusiast | Lifelong Learner | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Building+Data+Driven+Intelligence;Learning+Something+New+Every+Single+Day+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast;Lifelong+Learner;Problem+Solver;Solving+Business+Problems+Using+Technology;Learning+Something+New+Every+Single+Day+🚀" alt="Typing animation" />
 </p>
 
 ---
@@ -17,21 +16,21 @@
 ## 🔹 About Me  
 
 - 🎯 Passionate about **Data Science, Machine Learning, and AI**  
-- 📊 Skilled at transforming data into **insights, intelligence, and impact**  
-- 🧠 Currently diving deeper into **Deep Learning, NLP, and MLOps**  
-- ⚙️ Building **end-to-end data systems** — from raw data to real-world decisions  
-- 🌱 I believe in **continuous learning**, curiosity, and experimentation  
-- 💡 “The goal isn’t to know everything — it’s to grow a bit more every day.”  
+- 💼 Focused on **solving business problems using data and technology**  
+- 📊 Skilled at transforming raw data into **insights, intelligence, and real-world impact**  
+- 🧠 Currently exploring **Deep Learning, NLP, and MLOps**  
+- 🌱 Believe in **continuous learning and experimentation** — growth is a daily habit  
+- 💬 Open to collaborating on data-driven projects and AI innovations  
 
 ---
 
 ## 🔹 What I’m Working On  
 
-- 🏗️ **Data Warehouse + Analytics** → ETL, Star Schema, and BI Dashboards  
-- 🤖 **Machine Learning Projects** → Forecasting, Classification, Clustering  
-- 🧬 **Deep Learning** → CNNs, Transformers, Embeddings  
-- ⚙️ **MLOps** → Model deployment, monitoring, automation  
-- 🧠 **LangGraph & Agentic AI Systems** → multi-agent reasoning workflows  
+- 🏗️ **Data Warehouse + Analytics Systems** – ETL pipelines, Star Schema, BI Dashboards  
+- 🤖 **ML Projects** – Forecasting, Classification, Clustering  
+- 🧬 **Deep Learning Models** – CNNs, Transformers, Autoencoders  
+- ⚙️ **MLOps Workflows** – Model versioning, deployment, and monitoring  
+- 🧠 **LangGraph & Agentic AI Systems** – building multi-agent reasoning frameworks  
 
 ---
 
@@ -58,7 +57,8 @@
 
 > “Every dataset has a story — my job is to make it speak clearly.”  
 >
-> I blend **analytical precision** with **creative problem-solving** to build systems that learn, adapt, and evolve — just like I do.  
+> I combine **business understanding**, **analytical precision**, and **technical creativity**  
+> to design intelligent systems that learn, adapt, and deliver measurable impact.  
 
 ---
 
