@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
-</p>
-
 <div align="center">
-  <h1>Hi, I'm Divy 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Data+Science+%26+AI+Enthusiast;Lifelong+Learner+%26+Problem+Solver;Solving+Business+Problems+With+Technology;Learning+Something+New+Every+Single+Day+🚀" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
+</div>
+
+<div align="center" style="position: relative; overflow: hidden; background: linear-gradient(135deg, #1A1A2E, #16213E); padding: 20px; border-radius: 15px; margin-bottom: 20px;">
+  <div class="stars"></div> <h1 style="color: #00C2FF;">Hi, I'm Divy <img src="https://raw.githubusercontent.com/ABS-Carbon/ABS-Carbon/master/wave.gif" width="50px"></h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Data+Science+%26+AI+Enthusiast;Lifelong+Learner+%26+Problem+Solver;Solving+Business+Problems+With+Technology;Learning+Something+New+Every+Single+Day+🚀" alt="Typing SVG" style="filter: drop-shadow(0 0 5px rgba(0,194,255,0.7));" />
 </div>
 
 <div align="center">
@@ -20,6 +20,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
+  <img src="https://komarev.com/ghpvc/?username=dvy246&color=brightgreen" alt="Profile views" style="margin-top: 10px;">
 </div>
 
 ---
@@ -94,6 +95,58 @@ Here are some of the technologies I work with:
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
+---
+
+### ✨ Most Used Languages
+
+<p align="center">
+  <a href="https://github.com/dvy246">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvy246&layout=donut&theme=dark&hide_border=true&title_color=00C2FF&text_color=FFF&bg_color=00000000&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Divy's Top Languages"/>
+  </a>
+</p>
+
 <p align="center">
   ✨ “Evolving every day — one dataset, one model, one insight at a time.” ✨
 </p>
+
+<style>
+.stars {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  background: transparent;
+  z-index: 0;
+}
+
+.stars::before {
+  content: "";
+  position: absolute;
+  top: -200%;
+  left: -200%;
+  width: 400%;
+  height: 400%;
+  background: url('data:image/svg+xml;utf8,<svg width="100%" height="100%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><defs><radialGradient id="starGradient" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="%23ffffff" stop-opacity="1"/><stop offset="100%" stop-color="%23ffffff" stop-opacity="0"/></radialGradient></defs><circle cx="50" cy="50" r="1.5" fill="url(%23starGradient)"/></svg>') repeat;
+  background-size: 0.8% 0.8%; /* Adjust star density and size */
+  animation: starfield 200s linear infinite;
+  opacity: 0.7;
+}
+
+@keyframes starfield {
+  from { transform: translate(0, 0); }
+  to { transform: translate(-200%, -200%); }
+}
+
+/* Ensure images and text are above the stars */
+.stars + * {
+    position: relative;
+    z-index: 1;
+}
+
+/* Drop shadow for better readability on starry background */
+h1, .readme-typing-svg {
+  text-shadow: 0 0 7px rgba(0, 194, 255, 0.8), 0 0 15px rgba(0, 194, 255, 0.5);
+}
+</style>
