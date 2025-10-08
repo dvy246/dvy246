@@ -3,12 +3,13 @@
 </div>
 
 <div align="center" style="position: relative; overflow: hidden; background: linear-gradient(135deg, #1A1A2E, #16213E); padding: 20px; border-radius: 15px; margin-bottom: 20px;">
-  <div class="stars"></div> <h1 style="color: #00C2FF;">Hi, I'm Divy <img src="https://raw.githubusercontent.com/ABS-Carbon/ABS-Carbon/master/wave.gif" width="50px"></h1>
+  <div class="stars"></div> 
+  <h1 style="color: #00C2FF;">Hi, I'm Divy <img src="https://raw.githubusercontent.com/ABS-Carbon/ABS-Carbon/master/wave.gif" width="50px"></h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Data+Science+%26+AI+Enthusiast;Lifelong+Learner+%26+Problem+Solver;Solving+Business+Problems+With+Technology;Learning+Something+New+Every+Single+Day+🚀" alt="Typing SVG" style="filter: drop-shadow(0 0 5px rgba(0,194,255,0.7));" />
 </div>
 
 <div align="center">
-  <h3>🚀 Connect with Me</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshake.png" alt="Handshake" width="35" height="35" /> Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshake.png" alt="Handshake" width="35" height="35" /></h3>
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -23,9 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=dvy246&color=brightgreen" alt="Profile views" style="margin-top: 10px;">
 </div>
 
----
+<p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
-### 🔹 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="35" height="35" /> About Me
 
 I am a results-driven enthusiast passionate about the intersection of **Data Science, Machine Learning, and AI**. My core focus is on transforming raw data into actionable insights and building intelligent systems that solve real-world business problems. I thrive on continuous learning and believe that growth is a daily habit.
 
@@ -35,11 +36,9 @@ I am a results-driven enthusiast passionate about the intersection of **Data Sci
 - 🧠 Currently exploring **Deep Learning, NLP, and MLOps**
 - 🌱 Open to collaborating on data-driven projects and AI innovations
 
----
+<p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
-### 🛠️ My Tech Stack
-
-Here are some of the technologies I work with:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Gear.png" alt="Gear" width="35" height="35" /> My Tech Stack
 
 <table>
   <tr>
@@ -79,30 +78,27 @@ Here are some of the technologies I work with:
   </tr>
 </table>
 
----
+<p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
-### 📊 My GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats & Trophies
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dvy246&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvy246&layout=compact&langs_count=8&theme=radical"/>
 </p>
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dvy246&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvy246&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dvy246&theme=radical&column=7" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</div>
+<p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
----
-
-### ✨ Most Used Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> Recent Activity
 
 <p align="center">
-  <a href="https://github.com/dvy246">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvy246&layout=donut&theme=dark&hide_border=true&title_color=00C2FF&text_color=FFF&bg_color=00000000&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Divy's Top Languages"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvy246&bg_color=1A1A2E&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 <p align="center">
