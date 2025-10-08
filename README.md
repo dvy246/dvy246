@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshake.png" alt="Handshake" width="35" height="35" /> Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshake.png" alt="Handshake" width="35" height="35" /></h3>
+  <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1mcjJ0b3Q0d3g4dWw2YjI2Z2wzM2VwZGRzY2Jrb2ZtNm41Z3A0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gU6uprqPy06x4eZz/giphy.gif" width="35" height="35" /> Connect with Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1mcjJ0b3Q0d3g4dWw2YjI2Z2wzM2VwZGRzY2Jrb2ZtNm41Z3A0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gU6uprqPy06x4eZz/giphy.gif" width="35" height="35" /></h3>
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -26,7 +26,7 @@
 
 <p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="35" height="35" /> About Me
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV2bW40bHNpZ2E5bGJ5aXp2bnA2amExeXNuY25sYW1hbjl4NDZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btWbITk02a5q45a/giphy.gif" width="35" height="35" /> About Me
 
 I am a results-driven enthusiast passionate about the intersection of **Data Science, Machine Learning, and AI**. My core focus is on transforming raw data into actionable insights and building intelligent systems that solve real-world business problems. I thrive on continuous learning and believe that growth is a daily habit.
 
@@ -38,7 +38,7 @@ I am a results-driven enthusiast passionate about the intersection of **Data Sci
 
 <p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Gear.png" alt="Gear" width="35" height="35" /> My Tech Stack
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J0aW95c3Z3aWN6YWE5ZmlsZ2l4b3A2N2ZlZnF0b2d6Y25uZ2ZrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkAZj9iB3/giphy.gif" width="35" height="35" /> My Tech Stack
 
 <table>
   <tr>
@@ -80,7 +80,7 @@ I am a results-driven enthusiast passionate about the intersection of **Data Sci
 
 <p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats & Trophies
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRzdHZzcjJ6bWF2OHJ1bDN6bDIzY2M5NXVybnN3N2s0dGl6bTI2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btPCcdNni124i1W/giphy.gif" width="35" height="35" /> GitHub Stats & Trophies
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dvy246&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -95,7 +95,7 @@ I am a results-driven enthusiast passionate about the intersection of **Data Sci
 
 <p align="center"><img src="https://github.com/Dev-Div/Dev-Div/blob/main/divider-1658422521.gif" width="100%"></p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> Recent Activity
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIzcDRoazZ4cG5lejRjaXo4ZXU2cGlxcmZkd3Q2Y3c1ajRmMHZwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gHnBL22t6mG5Ddt93E/giphy.gif" width="35" height="35" /> Recent Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvy246&bg_color=1A1A2E&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" />
@@ -135,13 +135,11 @@ I am a results-driven enthusiast passionate about the intersection of **Data Sci
   to { transform: translate(-200%, -200%); }
 }
 
-/* Ensure images and text are above the stars */
 .stars + * {
     position: relative;
     z-index: 1;
 }
 
-/* Drop shadow for better readability on starry background */
 h1, .readme-typing-svg {
   text-shadow: 0 0 7px rgba(0, 194, 255, 0.8), 0 0 15px rgba(0, 194, 255, 0.5);
 }
