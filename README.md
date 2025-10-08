@@ -1,34 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Welcome%20to%20Divy's%20Galaxy&fontSize=50&fontAlignY=40&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&animation=twinkling" width="100%" style="animation: fadeIn 2s ease-in-out;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Divy%20Shah&fontSize=60&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
-
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(-20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-.profile-badge:hover { animation: pulse 0.5s ease-in-out; }
-</style>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hey+%F0%9F%91%8B+I'm+Divy+-+Data+Science+%26+AI+Visionary;Crafting+Intelligence+from+Data+%F0%9F%A7%A0;Building+AI+for+Real-World+Impact+%F0%9F%9A%80;Growing+Through+Code+%26+Curiosity+%F0%9F%8C%B1" alt="Typing SVG" style="animation: fadeIn 3s ease-in-out;" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data%20Scientist%20%26%20AI%20Engineer;Solving%20Business%20Challenges%20with%20Cutting-Edge%20Technology;Driving%20Impact%20Through%20Data-Driven%20Insights%20%F0%9F%93%8A;Committed%20to%20Continuous%20Innovation%20%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/dvy246" class="profile-badge">
+  <a href="https://github.com/dvy246">
     <img src="https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge&logo=eye&logoColor=white&labelColor=101010&color=00d9ff" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/dvy246?tab=followers" class="profile-badge">
+  <a href="https://github.com/dvy246?tab=followers">
     <img src="https://img.shields.io/github/followers/dvy246?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=00d9ff" alt="Followers"/>
   </a>
-  <a href="https://github.com/dvy246?tab=repositories" class="profile-badge">
+  <a href="https://github.com/dvy246?tab=repositories">
     <img src="https://img.shields.io/github/stars/dvy246?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=00d9ff" alt="Stars"/>
   </a>
 </div>
@@ -36,53 +23,245 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.3);"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
-<br/>
+## About Me
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 10px; animation: fadeIn 2s ease-in-out;">
+I am Divy Shah, a passionate Data Scientist and AI Engineer with a strong focus on leveraging cutting-edge technologies to solve complex business problems. I thrive on transforming raw data into actionable insights that drive strategic decisions and operational efficiencies. My expertise spans machine learning, deep learning, MLOps, and agentic AI systems, where I apply innovative solutions to real-world challenges.
 
 ```python
-class Divy:
+class DivyShah:
     def __init__(self):
         self.username = "dvy246"
         self.role = "Data Scientist & AI Engineer"
-        self.current_focus = [
+        self.expertise = [
             "Machine Learning",
             "Deep Learning",
             "MLOps",
             "LangGraph & Agentic AI"
         ]
-        self.hobbies = ["📊 Data Analysis", "🤖 Building AI Models", "📚 Lifelong Learning"]
+        self.passions = [
+            "Solving business problems with cutting-edge tech",
+            "Data Analysis & Visualization",
+            "Building Scalable AI Models"
+        ]
         
-    def get_daily_motto(self):
-        return "Every dataset tells a story — I bring it to life 💡"
-    
-    def current_mission(self):
-        return "Turning raw data into actionable intelligence"
+    def mission_statement(self):
+        return "Delivering high-impact AI solutions that bridge data and business strategy."
 
-me = Divy()
-print(me.get_daily_motto())
+professional = DivyShah()
+print(professional.mission_statement())
 
-
-
-🎯 What Drives Me
-
-💼 Mission: Solving complex problems with data-driven solutions  
-🧠 Passion: Transforming data chaos into clear insights  
-🚀 Current Focus: Deep Learning, NLP, Computer Vision, MLOps  
-🌱 Philosophy: Continuous learning fuels innovation  
-🤝 Collaboration: Open to exciting AI/ML projects  
-⚡ Fun Fact: Every line of code is a step toward greatness
+Professional Highlights
 
 
 
 
-  
+
+Mission: Develop data-driven strategies to address business challenges using advanced AI and ML techniques.
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212257
+
+Passion: I love solving business problems with cutting-edge tech, turning complex data into clear, impactful solutions.
+
+
+
+Focus Areas: Predictive modeling, NLP, computer vision, and end-to-end MLOps pipelines.
+
+
+
+Philosophy: Committed to lifelong learning and collaborative innovation in AI.
+
+
+
+Collaboration: Open to partnerships on transformative AI/ML projects.
+
+
+
+
+
+
+Key Projects & Expertise
+
+
+
+
+
+
+
+🏗️ Data Engineering
+
+
+
+
+
+Designed and implemented ETL pipelines for efficient data processing and integration.
+
+
+
+Built scalable data warehouses using Star and Snowflake schemas for optimized querying.
+
+
+
+Created interactive BI dashboards in Tableau to facilitate data-driven decision-making.
+
+
+
+Ensured data quality and reliability through rigorous validation processes.
+
+
+
+🤖 AI & Machine Learning
+
+
+
+
+
+Developed predictive models for forecasting, classification, and optimization tasks.
+
+
+
+Applied deep learning architectures (CNNs, RNNs, Transformers) to solve complex problems in vision and language.
+
+
+
+Built NLP applications for text analysis, sentiment detection, and content generation.
+
+
+
+Implemented multi-agent AI systems using LangGraph for advanced automation.
+
+
+
+
+
+
+Technical Skills
+
+
+
+Python
+
+
+
+Pandas
+
+
+
+NumPy
+
+
+
+Scikit-learn
+
+
+
+PyTorch
+
+
+
+TensorFlow
+
+
+
+Keras
+
+
+
+OpenCV
+
+
+
+Tableau
+
+
+
+Matplotlib
+
+
+
+Seaborn
+
+
+
+Plotly
+
+
+
+GitHub
+
+
+
+Docker
+
+
+
+Git
+
+
+
+VS Code
+
+
+
+MySQL
+
+
+
+PostgreSQL
+
+
+
+SQL Server
+
+
+
+MongoDB
+
+
+
+
+
+
+GitHub Statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's Connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📈 Committed to driving business value through innovative AI solutions.
+
+
 
