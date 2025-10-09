@@ -7,10 +7,13 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px">
 </p>
 
-
+<h1 align="center" style="font-size: 3em;">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 
   Hi there, I'm Divy 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 </h1>
+
+<h2 align="center">💡 Problem Solver | 📚 Eager Learner</h2>
 
 <p align="center">
 🎓 <b>BCom (Hons)</b> | 🚀 Data Science & AI Explorer <br>
@@ -75,6 +78,16 @@
 
 ---
 
+## 🔹 Current Projects
+
+<img align="left" alt="Projects" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+<div align="right" width="50%">
+
+📌 **Data Warehouse + Finance Analytics** – schema design, ETL pipelines, BI dashboards  
+📌 **ML Projects** – forecasting, classification, clustering models  
+📌 **DL & GenAI Experiments** – transformers, embeddings, generative reasoning  
+📌 **LangGraph Agentic AI** – autonomous multi-step reasoning workflows  
 
 </div>
 
