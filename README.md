@@ -8,8 +8,7 @@
 </p>
 
 <h1 align="center" style="font-size: 3em;">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 
-  Hi there, I'm Divy 
+  Hi, I'm Divy 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 </h1>
 
