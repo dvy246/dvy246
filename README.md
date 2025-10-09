@@ -78,10 +78,6 @@
 
 ## 🔹 Current Projects
 
-<img align="left" alt="Projects" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-<div align="right" width="50%">
-
 📌 **Data Warehouse + Finance Analytics** – schema design, ETL pipelines, BI dashboards  
 📌 **ML Projects** – forecasting, classification, clustering models  
 📌 **DL & GenAI Experiments** – transformers, embeddings, generative reasoning  
