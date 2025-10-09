@@ -75,12 +75,6 @@
 
 ---
 
-## 🔹 Current Projects
-
-📌 **Data Warehouse + Finance Analytics** – schema design, ETL pipelines, BI dashboards  
-📌 **ML Projects** – forecasting, classification, clustering models  
-📌 **DL & GenAI Experiments** – transformers, embeddings, generative reasoning  
-📌 **LangGraph Agentic AI** – autonomous multi-step reasoning workflows  
 
 </div>
 
